@@ -242,14 +242,6 @@ button {
   }
 }
 
-/* hero */
-
-/* carousel with animation */
-body {
-  background: var(--body-bg);
-  font-family: Arial;
-}
-
 /* Container with 3D perspective */
 .carousel {
   width: 90%;
@@ -384,7 +376,7 @@ body {
 }
 
 .next-btn {
-  right: -40px ;
+  right: -40px;
 }
 
 /* Features Grid */
@@ -432,6 +424,7 @@ body {
   color: white;
   border-radius: 6px;
   cursor: pointer;
+  text-align: center;
 }
 
 /* About Page */
@@ -463,7 +456,6 @@ body {
   object-fit: cover;
   margin-bottom: 20px;
 }
-
 
 /* --- Footer */
 .site-footer {
