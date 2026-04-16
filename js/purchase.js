@@ -25,27 +25,71 @@ const books = [
   {
     title: "Daddy's Plaything",
     image: "images/Daddy-plaything.jpeg",
-    link: "https://amazon.com",
+    description: "I wanted my new Step dad and there was nothing the world was going to stop me from getting him.",
+    rating: "⭐⭐⭐☆☆",
+     price: "$2.99",
+    warnings: `
+    - Mature themes<br>
+    - cheating<br>
+    - Power dynamics<br>
+    `,
+    link: "https://www.amazon.com/Daddys-Play-Thing-Cheaters-Book-ebook/dp/B073TYTTTY?ref_=ast_author_mpb",
   },
   {
     title: "One Temptation",
     image: "images/One-Temptation.jpeg",
-    link: "https://amazon.com",
+    description: "Grace used to been invisible, but when she goes to conventions shes able to be her true self. when she meets her celebrity crush, things get hot when a photo op turns into a private meet and greet.",
+    rating: "⭐⭐⭐⭐⭐",
+     price: "$4.99",
+    warnings: `
+    - Explicit content<br>
+    - Power dynamics<br>
+    - celebrity crush<br>
+  `,
+    link: "https://www.amazon.com/Temptation-Comfort-Crush-Violet-Vixen-ebook/dp/B0D2JXX26L/ref=books_amazonstores_desktop_mfs_aufs_ap_sc_dsk_2?_encoding=UTF8&pd_rd_w=EA1Az&content-id=amzn1.sym.9c9a049f-252a-49d9-a8c2-e300a1663200&pf_rd_p=9c9a049f-252a-49d9-a8c2-e300a1663200&pf_rd_r=139-8099201-9925314&pd_rd_wg=nmYmT&pd_rd_r=8488787f-7997-48a5-9aaa-ce0bc256cd69",
   },
   {
     title: "Shake Her Sparkler",
     image: "images/Shake-Her-Sparkler.jpeg",
-    link: "https://amazon.com",
+    description: "a forth of July camping trip with her boyfriend turns on his head when Jack, the boyfriends dad makes her feel things she has never felt before.",
+    rating: "⭐⭐⭐⭐☆",
+     price: "$2.99",
+    warnings: `
+    - Mature themes<br>
+    - cheating<br>
+    - age gap<br>
+  `,
+    link: "https://www.amazon.com/Shake-Her-Sparklers-Erotica-Holiday-ebook/dp/B073PHHMTS/ref=books_amazonstores_desktop_mfs_aufs_ap_sc_dsk_1?_encoding=UTF8&pd_rd_w=EA1Az&content-id=amzn1.sym.9c9a049f-252a-49d9-a8c2-e300a1663200&pf_rd_p=9c9a049f-252a-49d9-a8c2-e300a1663200&pf_rd_r=139-8099201-9925314&pd_rd_wg=nmYmT&pd_rd_r=8488787f-7997-48a5-9aaa-ce0bc256cd69",
   },
   {
     title: "Wicked Pumpkin",
     image: "images/Wicked-Pumpkin.jpeg",
-    link: "https://amazon.com",
+    description: "signing a contract without reading the fine print can lead to some wicked consequences.",
+    rating: "⭐⭐⭐⭐⭐",
+    price: "$3.99",
+    warnings: `
+    - Non-consent<br>
+    - Consent non-consent<br>
+    - torture<br>
+    - anal<br>
+    - clowns<br>
+    - slasher
+  `,
+    link: "https://www.amazon.com/Wicked-Pumpkins-Halloween-Erotica-Holiday-ebook/dp/B0CKTR1D46?ref_=ast_author_dp&th=1&psc=1",
   },
   {
     title: "Wife Swap",
     image: "images/Wife-swap.jpeg",
-    link: "https://amazon.com",
+    description: "my husband wants to see me with another, shocked at first, I find myself getting turned on by the idea of sharing",
+    rating: "⭐⭐⭐⭐☆",
+     price: "$2.99",
+    warnings: `
+    -cheating<br>
+    -submissive<br>
+    -power dynamics<br>
+    -cuckold<br>
+  `,
+    link: "https://www.amazon.com/Wife-Swap-Cheaters-Violet-Vixen-ebook/dp/B073MSFWJ6?ref_=ast_author_dp&th=1&psc=1",
   },
   {
     title: "Coming Soon",
