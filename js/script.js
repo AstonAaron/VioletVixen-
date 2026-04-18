@@ -109,6 +109,32 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 });
 
+//modal
+const socialModal = document.getElementById("socialModal");
+const openSocialModal = document.getElementById("openSocialModal");
+const closeSocialModal = document.getElementById("closeSocialModal");
+
+// Open modal
+if (openSocialModal) {
+  openSocialModal.addEventListener("click", () => {
+    socialModal.style.display = "block";
+  });
+}
+
+// Close modal (X button)
+if (closeSocialModal) {
+  closeSocialModal.addEventListener("click", () => {
+    socialModal.style.display = "none";
+  });
+}
+
+// Close when clicking outside
+window.addEventListener("click", (e) => {
+  if (e.target === socialModal) {
+    socialModal.style.display = "none";
+  }
+});
+
 // Helpers / Function
 
 const yearEl = document.getElementById("year");
